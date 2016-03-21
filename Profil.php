@@ -11,7 +11,7 @@
     <div class="avatar">
       <img id="avatar" src="/Users/mickelbaz/Desktop/Images/Man_Silhouette.png"/>
     </div>
-    
+
     <div class="top">
       <h1>PRÉNOM NOM, <span>Ville</span><br><a href="/Users/mickelbaz/Desktop/Page/Profil.html"><img id="logomodif" class="modifier" src="/Users/mickelbaz/Desktop/Images/modif.png"/><span class="modifier"> Modifier mon compte</span></a></h1>
 
@@ -32,8 +32,6 @@
                     <td>20 ans</td>
                 </tr>
 
-
-
                 <tr style="border-bottom:1px solid black;">
                     <td style="padding:1em;">Sexe</td>
                     <td>Homme</td>
@@ -53,6 +51,11 @@
 
     </div>
 
+    <?php
+    for ($i=0; $i <100 ; $i++) {
+      echo 2;
+    }
+     ?>
 
     <div id="detail">
 

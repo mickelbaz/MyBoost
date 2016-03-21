@@ -3,10 +3,11 @@
 	<head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="formulaire.css" />
-	<title></title>
+	<title>MyBoost - Le Site Web</title>
 	</head>
 
 	<body>
+
 	<h1>INSCRIPTION</h1>
 	<FORM name="formulaire" method="post" action="#">
 
@@ -116,4 +117,4 @@
 	</body>
 
 
-</html><
+</html>

@@ -52,7 +52,6 @@ header nav{
     background-color: rgba(120, 0, 120, 0.5);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    /*box-shadow: 5px 5px 2px #888;*/
     margin-top: 30px;
 }
 
@@ -68,30 +67,17 @@ nav ul{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
-    /*border: 3px orange solid;
-    border-radius: 10px;*/
     margin-left: 50px;
     margin-right:50px;
     padding: 7px;
     
-
 }
-/*nav a,focus;
-nav a:hover{
-    ackground-color: rgba(120, 0, 120, 0.5);
-}*/
+
 
 nav .nav-item{
     margin-right: 80px;
     transition:transform .3s ease;
-    float: left; /* Pour que les liens s’affichent horizontalement */
-    position: relative; /* Crée un contexte de positionnement pour les sous-listes */
 }
-
-
-/*nav .sub-nav-item{
-    transition:transform .3s ease;
-}*/
 
 nav .nav-item:hover{
     transform: scale(1.4);
@@ -118,8 +104,6 @@ header .search input{
 }
 
 .effet img {
-    /*webkit-transition:all 0.3s ease;
-    -o-transition:all 0.3s ease;*/
     border-radius:3px;
     width:50px;
     height:50px;       
@@ -140,18 +124,6 @@ footer{
     border-radius:50px;
     transform: scale(1.4);
 }
-
-/*#carrousel{
-    position:relative;
-    height:200px;
-    width:700px;
-    margin:auto;
-}
-#carrousel ul li{
-    position:absolute;
-    top:0;
-    left:0;
-}*/
 
 
 

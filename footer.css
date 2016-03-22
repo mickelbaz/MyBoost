@@ -1,0 +1,12 @@
+footer{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:rgba(120,0,120,0.5);
+    color:white;
+    margin-top: 500px;
+}
+
+.effet img:hover {
+    border-radius:50px;
+    transform: scale(1.4);
+}

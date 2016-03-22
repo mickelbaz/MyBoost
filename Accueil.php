@@ -10,7 +10,7 @@
             <header>
                 <div id="titre_principal">
                     <div class="logo">
-                            <img src="C:\wamp\www\MyBoost\Images\Logo4.png" alt="Logo de site web MyBoost"/>
+                            <img src="Images\Logo4.png" alt="Logo de site web MyBoost"/>
                             <h1>Un sport, un clic, une communauté!</h1>
                         </ul>
                     </div>

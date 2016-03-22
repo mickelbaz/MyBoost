@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 	<head>
 	<meta charset="utf-8">
@@ -6,9 +6,11 @@
 	<title>MyBoost - Le Site Web</title>
 	</head>
 
-	<body>
-		<?php include ("header.html"); ?>
-	<h1>INSCRIPTION</h1>
+	<body>-->
+
+		<?php include ("header.php"); ?>
+
+	<p>INSCRIPTION</p>
 	<FORM name="formulaire" method="post" action="#">
 
 	<table>
@@ -112,9 +114,9 @@
 	</table>
 
 	<br></br>
-	<div>Valider</div>
+	<div class="B">Valider</div>
 	</FORM>
-	</body>
+	<!--</body>-->
 <?php include ("footer.php"); ?>
 
-</html>
+<!--</html>-->

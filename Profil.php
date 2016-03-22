@@ -9,11 +9,11 @@
   </head>
   <body>
     <div class="avatar">
-      <img id="avatar" src="/Users/mickelbaz/Desktop/Images/Man_Silhouette.png"/>
+      <img id="avatar" src="Images/Man_Silhouette.png"/>
     </div>
 
     <div class="top">
-      <h1>PRÉNOM NOM, <span>Ville</span><br><a href="/Users/mickelbaz/Desktop/Page/Profil.html"><img id="logomodif" class="modifier" src="/Users/mickelbaz/Desktop/Images/modif.png"/><span class="modifier"> Modifier mon compte</span></a></h1>
+      <h1>PRÉNOM NOM, <span>Ville</span><br><a href="Profil.php"><img id="logomodif" class="modifier" src="Images/modif.png"/><span class="modifier"> Modifier mon compte</span></a></h1>
 
     </div>
 
@@ -51,11 +51,6 @@
 
     </div>
 
-    <?php
-    for ($i=0; $i <100 ; $i++) {
-      echo 2;
-    }
-     ?>
 
     <div id="detail">
 
@@ -66,16 +61,16 @@
         </div>
 
         <div class="images">
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_boxe.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_football.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_tennis.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_jogging.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_petanque.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_curling.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_basket.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_golf.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_trampoline.png"/>
-          <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/clipart_muscu.png"/>
+          <img id="sportimg" src="Images/clipart_boxe.png"/>
+          <img id="sportimg" src="Images/clipart_football.png"/>
+          <img id="sportimg" src="Images/clipart_tennis.png"/>
+          <img id="sportimg" src="Images/clipart_jogging.png"/>
+          <img id="sportimg" src="Images/clipart_petanque.png"/>
+          <img id="sportimg" src="Images/clipart_curling.png"/>
+          <img id="sportimg" src="Images/clipart_basket.png"/>
+          <img id="sportimg" src="Images/clipart_golf.png"/>
+          <img id="sportimg" src="Images/clipart_trampoline.png"/>
+          <img id="sportimg" src="Images/clipart_muscu.png"/>
         </div>
 
       </div>
@@ -87,10 +82,10 @@
         </div>
 
         <div class="images">
-        <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/avatar1.png"/>
-        <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/avatar2.png"/>
-        <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/avatar3.png"/>
-        <img id="sportimg" src="/Users/mickelbaz/Desktop/Images/avatar4.png"/>
+        <img id="sportimg" src="Images/avatar1.png"/>
+        <img id="sportimg" src="Images/avatar2.png"/>
+        <img id="sportimg" src="Images/avatar3.png"/>
+        <img id="sportimg" src="Images/avatar4.png"/>
         </div>
 
       </div>

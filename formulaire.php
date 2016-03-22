@@ -7,7 +7,7 @@
 	</head>
 
 	<body>
-
+		<?php include ("header.html"); ?>
 	<h1>INSCRIPTION</h1>
 	<FORM name="formulaire" method="post" action="#">
 
@@ -115,6 +115,6 @@
 	<div>Valider</div>
 	</FORM>
 	</body>
-
+<?php include ("footer.php"); ?>
 
 </html>

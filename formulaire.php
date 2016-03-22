@@ -29,10 +29,10 @@
 	<td colspan="2">Choisissez votre avatar ou importez une image :</td>
 	</tr>
 	<tr>
-	<td><INPUT type="checkbox" name="img1"/><img src="C:\wamp\www\MyBoost\Images\avatar1.png"/></td>
-	<td><INPUT type="checkbox" name="img2"/><img src="C:\wamp\www\MyBoost\Images\avatar2.png"/></td>
-	<td><INPUT type="checkbox" name="img3"/><img src="C:\wamp\www\MyBoost\Images\avatar3.png"/></td>
-	<td><INPUT type="checkbox" name="img4"/><img src="C:\wamp\www\MyBoost\Images\avatar4.png"/></td>
+	<td><INPUT type="checkbox" name="img1"/><img src="avatar1"/></td>
+	<td><INPUT type="checkbox" name="img2"/><img src="avatar2.png"/></td>
+	<td><INPUT type="checkbox" name="img3"/><img src="avatar3.png"/></td>
+	<td><INPUT type="checkbox" name="img4"/><img src="avatar4.png"/></td>
 	<td class="A"><INPUT type="file" name="img"/></td>
 	</tr>
 	<tr></tr><tr></tr>

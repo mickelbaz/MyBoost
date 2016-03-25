@@ -1,6 +1,14 @@
-*{
-    margin: 0;
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  src: url(AvenirNextLTPro-Demi.otf);
 }
+
+*{
+  margin: 0em;
+  font-family: Avenir Next LT Pro;
+
+}
+
 .bouton a{
     padding:20px;
     margin-left: 550px;
@@ -13,14 +21,15 @@
     text-decoration: none;
     font-size: 2em;
     position: absolute;
+    
 }
 
 @keyframes slide {
-0% {left: 0%;}
+0% {left: 40%;}
 20% {left: 0%;}
-25% {left: -100%;}
-45% {left: -100%;}
-50% {left: -198%;}
+25% {left: -50%;}
+45% {left: -75%;}
+50% {left: -100%;}
 70% {left: -198%;}
 75% {left: -298%;}
 95% {left: -298%;}
@@ -29,10 +38,10 @@
 
 
 .slide figure {
-    position: relative;    
-    width: 500%;          
-    font-size: 40;       
-    animation: 15s slide infinite;  
+    position: relative;
+    width: 400%;
+    font-size: 40;
+    animation: 15s slide infinite;
                 }
 
 .slide {
@@ -40,8 +49,8 @@
         }
 
 .slide img {
-    width: : 20%;
-    height: 105vh;
+    width: : 25em;
+    height: 25em;
     margin: 0;
             }
 

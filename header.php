@@ -18,24 +18,27 @@
         <div class="connexion">
             <a href="/sign-up">Sign up</a>
         </div>
+        <div class="inscrire">
+            <a href="/sign-up">S'inscrire</a>
+        </div>
+        <div class="search">
+            <input type="text" name="name" placeholder="rechercher">
+        </div>
     </div>
     <nav>
         <ul>
             <li class="nav-item"><a href="#">Accueil</a></li>
-            <li class="nav-item"><a href="#">Mon Compte</a></li>
+            <li class="nav-item"><a href="Profil.php">Mon Compte</a></li>
             <li class="nav-item"><a href="#">Communauté</a>
-               <!--<ul class="sub-nav">
-                    <li class="sub-nav-item"><a href="#">Sports</a></li>
-                    <li class="sub-nav-item"><a href="#">Annuaire</a></li>
-                    <li class="sub-nav-item"><a href="#">Groupes</a></li>
-                </ul>
-            </li>-->
+
+            <li class="nav-item"><a href="#">Sports</a></li>
+            <li class="nav-item"><a href="#">Annuaire</a></li>
+            <li class="nav-item"><a href="#">Groupes</a></li>
+
             <li class="nav-item"><a href="#">Forum</a></li>
             <li class="nav-item"><a href="#">À Propos</a></li>
         </ul>
     </nav>
-    <div class="search">
-        <input type="text" name="name" placeholder="rechercher">
-    </div>
+
 </header>
 </div>

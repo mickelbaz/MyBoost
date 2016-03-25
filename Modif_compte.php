@@ -8,6 +8,7 @@
     <title>Préférences profil</title>
   </head>
   <body>
+    <?php include("header.php"); ?>
     <div class="avatar">
       <img id="avatar" src="Images/Man_Silhouette.png"/>
     </div>

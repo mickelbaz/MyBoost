@@ -7,8 +7,10 @@
 
     <title>Mon profil</title>
   </head>
-  
+
   <body>
+    <?php include("header.php"); ?>
+    <div class="content">
     <div class="avatar">
       <img id="avatar" src="Images/Man_Silhouette.png"/>
     </div>
@@ -17,6 +19,7 @@
       <h1>PRÉNOM NOM, <span>Ville</span><br><a href="Modif_compte.php"><img id="logomodif" class="modifier" src="Images/modif.png"/><span class="modifier"> Modifier mon compte</span></a></h1>
 
     </div>
+
 
     <div class="info">
       <table style="border-collapse:collapse;">
@@ -90,6 +93,8 @@
         </div>
 
       </div>
+    </div>
 
+</div>
   </body>
 </html>

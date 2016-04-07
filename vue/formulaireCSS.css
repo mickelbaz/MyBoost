@@ -118,11 +118,14 @@ header .search input{
 }
 
 footer{
+    postition:relative;
+    clear:both;
+    margin-top:50px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color:rgba(120,0,120,0.5);
     color:white;
-    margin-top: 500px;
+
 }
 
 /*
@@ -179,4 +182,8 @@ table{
 .A{
 	padding-top: 6.7em;
 	padding-left:1em;
+}
+
+.C{
+  text-align:center;
 }

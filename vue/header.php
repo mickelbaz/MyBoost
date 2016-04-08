@@ -42,8 +42,12 @@
     <nav>
         <ul>
             <li class="nav-item"><a href="#">Accueil</a></li>
+<<<<<<< Updated upstream:vue/header.php
 <<<<<<< HEAD
             <li class="nav-item"><a href="Profil.php">Mon Compte</a></li>
+=======
+            <li class="nav-item"><a href="vue/Profil/Vue_profil.php">Mon Compte</a></li>
+>>>>>>> Stashed changes:header.php
             <li class="nav-item"><a href="#">Communauté</a>
 
             <li class="nav-item"><a href="#">Sports</a></li>

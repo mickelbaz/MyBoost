@@ -15,9 +15,15 @@
                 <h1>Un sport, un clic, une communauté!</h1>
             </ul>
         </div>
-        <div class="inscription">
-            <a href="/sign-up">Sign up</a>
-        </div>
+
+        <FORM name="connection" method="post" action="">
+         <div class="champ1"> <INPUT type="text" name="pseudo" placeholder="Pseudo"/>
+            <br></br>
+            <INPUT type="password" name="mot_de_passe" placeholder="Mot de passe"/></div>
+            <br></br>
+            <div class="champ2"><INPUT type="submit" name='connection' value="Valider" /></div>
+      </FORM>
+
     </div>
     <nav>
         <ul>

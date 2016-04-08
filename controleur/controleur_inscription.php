@@ -1,6 +1,6 @@
 <?php
 
-require '../modele/modele_inscription.php';
+require '../modele/modele_utilisateur.php';
 
 function verif(){
 

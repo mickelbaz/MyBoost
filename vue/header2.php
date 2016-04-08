@@ -18,6 +18,9 @@
         <div class="inscription">
             <a href="/sign-up">Sign up</a>
         </div>
+        <div class="connection">
+            <a href="..\vue\vue_connection.php">Se connecter</a>
+        </div>
     </div>
     <nav>
         <ul>

@@ -9,9 +9,10 @@
 	<body>-->
 
 <?php require '..\vue\header.php'; ?>
+<link rel="stylesheet" type="text/css" href="..\vue\formulaireCSS.css">
 
+<FORM name="formulaire" method="post" action="">
 	<p>INSCRIPTION</p>
-	<FORM name="formulaire" method="post" action="">
 	<table>
 	<tr>
 	<td>Nom :</td>

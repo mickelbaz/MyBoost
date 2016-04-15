@@ -11,5 +11,5 @@
 <a href="sportChoisi.php?sport=<?php echo('Tennis');?>"</a>
 <a href="sportChoisi.php?sport=<?php echo('Basket');?>"</a>
 <a href="sportChoisi.php?sport=<?php echo('Escalade en salle');?>"</a>
-<a href=""><img class="imgsport" src="Images/clipart_football.png"></a>
+<a href=""><img class="imgsport" src="Images/clipart_Football.png"></a>
 ?>

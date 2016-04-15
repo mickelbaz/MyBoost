@@ -1,6 +1,7 @@
 <?php
-
 require '../modele/modele_utilisateur.php';
+require('../vue/vue_inscription.php');
+
 
 function verif(){
 
@@ -48,15 +49,15 @@ function verif(){
         }
       }
     }
-      else{?>
-        <script language="javascript">alert("Un champ n'est pas rempli !");</script>
-        <?php
-      }
+    else{?>
+      <script language="javascript">alert("Un champ n'est pas rempli !");</script>
+      <?php
     }
   }
+}
 
-  $testverif = verif();
-  require '..\vue\vue_inscription.php';
+$testverif = verif();
+
 
 
 

@@ -8,8 +8,11 @@
 
 	<body>-->
 
-<?php require '..\vue\header.php'; ?>
-<link rel="stylesheet" type="text/css" href="..\vue\formulaireCSS.css">
+<?php
+	include('../vue/header.php');
+?>
+
+<link rel="stylesheet" type="text/css" href="../vue/formulaireCSS.css">
 
 <FORM name="formulaire" method="post" action="">
 	<p>INSCRIPTION</p>
@@ -31,10 +34,10 @@
 	<td colspan="2">Choisissez votre avatar ou importez une image :</td>
 	</tr>
 	<tr>
-	<td><INPUT type="checkbox" name="img1"/><img src="../Images\avatar1.png"/></td>
-	<td><INPUT type="checkbox" name="img2"/><img src="../Images\avatar2.png"/></td>
-	<td><INPUT type="checkbox" name="img3"/><img src="../Images\avatar3.png"/></td>
-	<td><INPUT type="checkbox" name="img4"/><img src="../Images\avatar4.png"/></td>
+	<td><INPUT type="checkbox" name="img1"/><img src="../Images/avatar1.png"/></td>
+	<td><INPUT type="checkbox" name="img2"/><img src="../Images/avatar2.png"/></td>
+	<td><INPUT type="checkbox" name="img3"/><img src="../Images/avatar3.png"/></td>
+	<td><INPUT type="checkbox" name="img4"/><img src="../Images/avatar4.png"/></td>
 	<td class="A"><INPUT type="file" name="img"/></td>
 	</tr>
 	<tr></tr><tr></tr>-->
@@ -126,6 +129,6 @@
 	<div class="C"><INPUT type="submit" name='envoyer' value="Valider" /></div>
 	</FORM>
 
-<?php require '..\vue\footer.php'; ?>
+<?php require '../vue/footer.php'; ?>
 
 <!--</html>-->

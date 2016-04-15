@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>MyBoost - Le Site Web</title>
-        <link rel="stylesheet" type="text/css" href="..\vue\header_footerCSS.css">
+        <link rel="stylesheet" type="text/css" href="../vue/header_footerCSS.css">
     </head>
     <body>
 <div id="bloc_page">
@@ -11,7 +11,7 @@
 
     <div id="titre_principal">
         <div class="logo">
-                <img src="../Images\Logo4.png" alt="Logo de site web MyBoost"/>
+                <img src="../Images/Logo4.png" alt="Logo de site web MyBoost"/>
                 <h1>Un sport, un clic, une communauté!</h1>
             </ul>
         </div>

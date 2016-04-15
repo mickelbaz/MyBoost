@@ -10,7 +10,7 @@
             <header>
                 <div id="titre_principal">
                     <div class="logo">
-                            <img src="Images\Logo4.png" alt="Logo de site web MyBoost"/>
+                            <img src="Images/Logo4.png" alt="Logo de site web MyBoost"/>
                             <h1>Un sport, un clic, une communauté!</h1>
                         </ul>
                     </div>
@@ -39,11 +39,11 @@
             </header>
             <footer>
                 <div class="effet">
-                    <a href="https://www.facebook.com/MyBoost-1136877939682445/?fref=ts"><img src="Images\fb.png" alt="facebook"></a>
+                    <a href="https://www.facebook.com/MyBoost-1136877939682445/?fref=ts"><img src="Images/fb.png" alt="facebook"></a>
                     &nbsp;
-                    <a href="https://twitter.com/myb00st"><img src="Images\twitter.jpg" alt="twitter"></a>
+                    <a href="https://twitter.com/myb00st"><img src="Images/twitter.jpg" alt="twitter"></a>
                     &nbsp;
-                    <a href="#"><img src="Images\insta.jpg" alt="insta"></a>
+                    <a href="#"><img src="Images/insta.jpg" alt="insta"></a>
                     &nbsp;
                     MyBoost &copy; 2016 - Tous droits r&eacute;serv&eacute;s
                 </div>

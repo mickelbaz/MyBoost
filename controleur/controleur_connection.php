@@ -17,5 +17,5 @@ function connect(){
 }
 
 $testconnect=connect();
-require '..\vue\vue_connection.php';
+require '../vue/vue_connection.php';
 ?>
